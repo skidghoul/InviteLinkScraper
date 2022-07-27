@@ -1,0 +1,10 @@
+{
+  "scraperPaths"    : {"inviteCodes": "scrape/output/invite_codes.txt", "extraInfo": "scrape/output/extra_invite_codes.txt", "inviteLinks": "scrape/output/invite_links.txt"},
+  "scraperKeywords" : [
+             "Roblox",
+             "Nitro",
+             "Discord Tokens",
+             "Reddit",
+             "Fetch Rewards"
+  ]
+}
