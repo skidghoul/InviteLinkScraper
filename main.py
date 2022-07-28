@@ -1,7 +1,7 @@
 import requests, time, random, json, threading, art, gratient
 import os
 
-inviteScrapeJson = 'scrape/input/config.json'
+inviteScrapeJson = 'scraper/input/config.json'
 inviteScrapeData =  json.load(open(inviteScrapeJson, 'r'))
 invitesScraped   =  []
 
