@@ -1,4 +1,4 @@
-# `INVITELINKSCRAPER` `👻`
+# `INVITELINKSCRAPER` `👻` [Support: [`Here`](https://discord.gg/MXuPYeDRk2)]
 ```
 - Start
 - Scrape
